@@ -14,16 +14,19 @@ This replica of a 286 motherboard is based on the Headland HT12P-16/A chipset. I
 
 # Images
 
+Top view
+[![](images/top.jpg 'top view')](#topview)
+
 # Bill of materials
 
 | Quantity | Description                    | PCB/Schematic's Reference                                                                                                                                                                    |
 | -------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 17       | CAP 10 uF 25 V                 | C1, C6, C9, C11, C15, C17, C22, C24, C27, C30, C34, C36, C49, C66, C67, C68, C69                                                                                                             |
+| 17       | CAP ELKO 10 uF 25 V            | C1, C6, C9, C11, C15, C17, C22, C24, C27, C30, C34, C36, C49, C66, C67, C68, C69                                                                                                             |
 | 39       | CAP CER 100 nF RM 5,0          | C2, C3, C4, C7, C8, C13, C14, C18, C20, C21, C25, C28, C29, C31, C35, C39, C40, C41, C42, C43, C44, C45, C46, C50, C51, C52, C53, C55, C56, C57, C58, C59, C60, C61, C62, C64, C65, C70, CXX |
 | 2        | CAP CER 15 pF RM 5,0           | C32, C33                                                                                                                                                                                     |
 | 1        | CAP CER 27 pF RM 5,0           | C12                                                                                                                                                                                          |
 | 3        | CAP CER 47 pF RM 5,0           | C38, C47, C48                                                                                                                                                                                |
-| 1        | CAP CER 4.7nF RM 5             | C19                                                                                                                                                                                          |
+| 1        | CAP CER 4.7 nF RM 5            | C19                                                                                                                                                                                          |
 |          | n.c.                           | C5, C10, C16, C23, C26                                                                                                                                                                       |
 | 4        | DIODE 1N4148                   | D1, D2, D3, D4                                                                                                                                                                               |
 | 1        | CON 5 PIN                      | J1 Keylock & Power LED                                                                                                                                                                       |
