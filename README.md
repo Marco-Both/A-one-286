@@ -7,6 +7,8 @@ Replica of a 286 Mainboard
 - V0.1 Initial revision 2022 made with Sprint-Layout
 - V0.2 Silkscreen updated, component positions and mounting holes modified
 - V0.3 First working revision
+- V0.4 Switch to KiCAD, still some Ram errors
+- V0.5 Stabel System at 20Mhz with no Ramm errors :-)
 
 # Specs
 
@@ -15,7 +17,7 @@ This replica of a 286 motherboard is based on the Headland HT12P-16/A chipset. I
 # Images
 
 Top view
-[![](images/top.jpg 'top view')](#topview)
+[![](images/top.png 'top view')](#topview)
 
 # Bill of materials
 
